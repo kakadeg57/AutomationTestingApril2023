@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-11T21:48:28 IST" name="Default suite" finished-at="2023-10-11T21:52:46 IST" duration-ms="257871">
+    <groups>
+    </groups>
+    <test started-at="2023-10-11T21:48:28 IST" name="Default test" finished-at="2023-10-11T21:52:46 IST" duration-ms="257871">
+      <class name="crmtests.NewContactsPageTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:48:34 IST" name="init" finished-at="2023-10-11T21:49:17 IST" duration-ms="42503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="valdiateCreateNewContactTest1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:49:18 IST" name="valdiateCreateNewContactTest1" data-provider="contactData" finished-at="2023-10-11T21:49:26 IST" duration-ms="8519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aditya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Patil]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.231231231E9]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[aditya.patil@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valdiateCreateNewContactTest1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:49:26 IST" name="tearDown" finished-at="2023-10-11T21:49:27 IST" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:49:27 IST" name="init" finished-at="2023-10-11T21:49:57 IST" duration-ms="30198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="valdiateCreateNewContactTest1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:49:57 IST" name="valdiateCreateNewContactTest1" data-provider="contactData" finished-at="2023-10-11T21:50:06 IST" duration-ms="9071" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ganesh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Maske]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.231231232E9]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ganesh.maske@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valdiateCreateNewContactTest1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:50:06 IST" name="tearDown" finished-at="2023-10-11T21:50:07 IST" duration-ms="797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:50:07 IST" name="init" finished-at="2023-10-11T21:50:38 IST" duration-ms="31058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="valdiateCreateNewContactTest1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:50:38 IST" name="valdiateCreateNewContactTest1" data-provider="contactData" finished-at="2023-10-11T21:50:46 IST" duration-ms="8416" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kishor]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Patil]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.231231233E9]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kishor.patil@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valdiateCreateNewContactTest1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:50:46 IST" name="tearDown" finished-at="2023-10-11T21:50:47 IST" duration-ms="576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:50:47 IST" name="init" finished-at="2023-10-11T21:51:16 IST" duration-ms="29566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="valdiateCreateNewContactTest1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:51:16 IST" name="valdiateCreateNewContactTest1" data-provider="contactData" finished-at="2023-10-11T21:51:26 IST" duration-ms="9471" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ms.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rupali]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bhosale]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.231231234E9]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[rupali.bhosale@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valdiateCreateNewContactTest1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:51:26 IST" name="tearDown" finished-at="2023-10-11T21:51:27 IST" duration-ms="838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:51:27 IST" name="init" finished-at="2023-10-11T21:51:57 IST" duration-ms="30103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="valdiateCreateNewContactTest1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:51:57 IST" name="valdiateCreateNewContactTest1" data-provider="contactData" finished-at="2023-10-11T21:52:05 IST" duration-ms="7861" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ms.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sandhya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kulkarni]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.231231235E9]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[sandhya.kulkarni@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valdiateCreateNewContactTest1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:52:05 IST" name="tearDown" finished-at="2023-10-11T21:52:05 IST" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:52:05 IST" name="init" finished-at="2023-10-11T21:52:36 IST" duration-ms="30658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="valdiateCreateNewContactTest1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:52:36 IST" name="valdiateCreateNewContactTest1" data-provider="contactData" finished-at="2023-10-11T21:52:44 IST" duration-ms="8541" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ganesh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kakade]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.231231236E9]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ganesh.kakade@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valdiateCreateNewContactTest1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crmtests.NewContactsPageTest@6c03fb16]" started-at="2023-10-11T21:52:44 IST" name="tearDown" finished-at="2023-10-11T21:52:46 IST" duration-ms="1368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- crmtests.NewContactsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

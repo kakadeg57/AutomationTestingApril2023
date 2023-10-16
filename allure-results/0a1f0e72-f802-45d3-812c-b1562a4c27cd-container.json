@@ -1,0 +1,1 @@
+{"uuid":"0a1f0e72-f802-45d3-812c-b1562a4c27cd","name":"crmtests.HomePageTest.init","children":["4290c75a-af8b-4644-ad4b-72443e3cedd5"],"description":"","befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1696697038605,"stop":1696697079770}],"afters":[],"start":1696697038603,"stop":1696697079771}
